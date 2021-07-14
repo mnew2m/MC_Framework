@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnew2m/PJT_Sample.git"
+    "url": "git+https://github.com/mnew2m/MC_Framework.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mnew2m/PJT_Sample/issues"
+    "url": "https://github.com/mnew2m/MC_Framework/issues"
   },
-  "homepage": "https://github.com/mnew2m/PJT_Sample#readme"
+  "homepage": "https://github.com/mnew2m/MC_Framework#readme"
 }
